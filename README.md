@@ -481,9 +481,9 @@ The inclusion of **LLM Security Fundamentals** made this certification particula
 
 ---
 
-LinkedIn: []
+LinkedIn: [https://www.linkedin.com/feed/update/urn:li:activity:7485761020251168770/]
 
-X: []
+X: [https://x.com/charisma1385/status/2079997569665487078]
 
 ---
 
